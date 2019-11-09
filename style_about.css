@@ -1,0 +1,37 @@
+body{
+	background-image: url(background.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.inline{
+	display: inline-flex; 
+} 
+
+ul {
+  list-style-type: none;
+}
+
+.banner{
+	background-color: #a94db9;
+}
+
+li{
+	color: #ffff;
+}
+
+b{
+	color: #9c6bf3; 
+}
+
+.list{
+	color: #00ffdc;
+	font-weight: bold;
+}
+
+p{
+	font-size: 13px; 
+	font-family: 'Orbitron', cursive; 
+	color:#ffff;
+}

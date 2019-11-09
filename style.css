@@ -1,0 +1,44 @@
+body{
+	background-image: url(background.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image{
+	border-radius: 30px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+	padding: 5px; 
+}
+
+ul {
+  list-style-type: none;
+}
+
+.banner{
+	background-color: #a94db9;
+}
+
+li{
+	color: #ffff;
+}
+th{
+	font-size: 20px;
+	color: #00ffdc;
+}
+
+td{
+	color: #ffff;
+}
+
+.list{
+	color: #00ffdc;
+	font-weight: bold;
+}
+
+h4{
+	text-align: center; 
+	font-family: 'Berkshire Swash', cursive; 
+	color:#00ffdc;
+}
